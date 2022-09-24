@@ -13,7 +13,7 @@ export default function Home() {
     <Wrapper className="App" >
       <h1 style={{textAlign: "center", fontSize: "50px"}}>Blahaj</h1>
       <Canvas className="canvas" style={{position: "absolute", height: "70%"}}> 
-        <OrbitControls enableZoom={false} enablePan={false}/>
+        <OrbitControls />
         <ambientLight intensity={0.5} />
         <directionalLight position={[-2, 5, 2]} intensity={1} />
         <Blahaj />

@@ -1,5 +1,5 @@
 # BlahajSpace
- Website dedicated to my beloved, blahaj.
+Site I made using three js.
 
 https://blahaj-space.vercel.app/cube
 
